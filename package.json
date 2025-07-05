@@ -1,0 +1,19 @@
+{
+  "name": "book-api",
+  "version": "2.0.1",
+  "description": "simple api for books without api",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "MERN",
+    "stack",
+    "Express"
+  ],
+  "author": "Tejas Sidhwani",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^5.1.0"
+  }
+}
